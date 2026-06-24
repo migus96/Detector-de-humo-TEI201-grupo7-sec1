@@ -12,4 +12,4 @@ El principal problema que tuvimos en el Avance 1 fue que nuestra idea de proyect
 
 ## Arquitectura del sistema 
 
-Sensor MQ-2 -> ESP32 ->
+Sensor MQ-2 -> ESP32 Emisora -> Conexión inalámbrica -> ESP32 Receptora -> Bot de Telegram -> Notificación en bandeja de mensajes de Telegram del usuario
