@@ -2,7 +2,7 @@
 Nuestro sistema integra un sensor MQ-2, Shield, batería recargable y una ESP32, se enfoca en prevenir o detectar posibles incendios en zonas poco concurridas, alerta al usuario en caso de detectar humo propagándose en el entorno.
 ## EQUIPO
 |         Integrante        |    Rol               | GitHub      |
-|--------------------------------------------------|-------------|
+|---------------------------|----------------------|-------------|
 |  Benjamín Núñez           |                      |             |
 |  Benjamín Landsberger     |                      |             |
 |  Miguel Sánchez           | Diseño 3D/ GitHub    |             |
