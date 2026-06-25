@@ -4,7 +4,7 @@ Nuestro sistema integra un sensor MQ-2, Shield, batería recargable y una ESP32,
 |         Integrante        |    Rol               | GitHub      |
 |---------------------------|----------------------|-------------|
 |  Benjamín Núñez           | Software/Firmware    | benja090605 |
-|  Benjamín Landsberger     | Hardware/GitHub      | Lacope3488  |
+|  Benjamín Landsberger     | GitHub               | Lacope3488  |
 |  Miguel Sánchez           | Diseño 3D/ GitHub    |  migus96    |
 
 ## Descripción del problema
