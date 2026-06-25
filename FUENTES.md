@@ -1,5 +1,6 @@
-Uso de Inteligencia Artificial,
-Código receptor ESP-NOW + Telegram (firmware/receptor_telegram.ino),
+##Uso de Inteligencia Artificial
+
+##Código receptor ESP-NOW + Telegram (firmware/receptor_telegram.ino),
 Herramienta: Claude Sonnet (Anthropic, junio 2026),
 Prompt utilizado: "ayúdame a crear un código para ESP32 receptor ESP-NOW que cuando 
 reciba una señal de humo del sensor MQ-2, mande una alerta por Telegram 
