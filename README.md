@@ -1,5 +1,8 @@
 # Detector-de-humo-TEI201-grupo7-sec1
-Nuestro sistema integra un sensor MQ-2, Shield, batería recargable y una ESP32, se enfoca en prevenir o detectar posibles inicios de incendios en zonas poco concurridas, alerta al usuario en caso de detectar humo propagándose en el entorno.
+## Descripción del Proyecto
+Sistema de seguridad inteligente para la detección de incendios basado en tecnología IoT. El sistema utiliza dos placas ESP32, un sensor MQ-2, shield y batería recargable para monitorear la calidad del aire y detectar niveles de humo, enviando notificaciones de alerta en tiempo real a través de un Bot de Telegram que el usuario puede recibir en su celular.
+
+
 ## EQUIPO
 |         Integrante        |    Rol               | GitHub      |
 |---------------------------|----------------------|-------------|
