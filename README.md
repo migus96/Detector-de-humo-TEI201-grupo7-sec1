@@ -13,6 +13,12 @@ Sistema de seguridad inteligente para la detección de incendios basado en tecno
 ## Descripción del problema
 El principal problema que tuvimos en el Avance 1 fue que nuestra idea de proyecto si bien no estaba mal formulada, era muy dificil de llevar a cabo y desarrollar de manera correcta a lo largo del curso, debido a la complejidad de su posible solución. Decidimos que era mejor cambiar de perspectiva y desarrollar nuestro proyecto actual, el detector de humo que alerta al usuario en caso de detectar indicios de un posible incendio, esto es gracias al sensor MQ-2 que tiene incorporado y a una alerta que transmite via Telegram.
 
+## Características Principales
+Detección Inalámbrica: Comunicación de bajo consumo entre la unidad emisora y la unidad receptora (placas ESP32).
+Alerta en Tiempo Real: Notificaciones luego de un corto periodo de tiempo recibidas en el celular mediante la aplicación de Telegram.
+Encapsulado: Carcasa impresa en 3D diseñada para proteger los componentes críticos.
+
+
 ## Arquitectura del sistema 
 
 Sensor MQ-2 -> ESP32 Emisora -> Conexión inalámbrica -> ESP32 Receptora -> Bot de Telegram -> Notificación en bandeja de mensajes de Telegram del usuario
