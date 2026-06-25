@@ -19,3 +19,8 @@
 Estructura de Bot de Telegram (receptor_telegram.ino)
 Fuente: Ejemplos oficiales de UniversalTelegramBot (ej. FlashLed).
 Adaptación: Se eliminó la lógica de control de LED y se reemplazó por la recepción de señales vía ESP-NOW, integrando la lógica para validar el Chat ID y enviar alertas de humo específicas.
+
+## Declaración IA Apoyo Diseño de la Carcasa y Planos Técnicos en Fusion 360
+Herramienta: Gemini (Google, junio 2026).
+Uso/Prompt: Apoyo en la generación de planos técnicos y renders del encapsulado. Se utilizó de forma ocasional para consultar funciones específicas de Fusion 360 y solicitar consejos sobre cómo realizar acciones de modelado o configurar la exportación de planos que no sabía ejecutar por cuenta propia.
+Adaptación: El equipo utilizó las indicaciones para configurar correctamente la escala y las vistas de los planos técnicos, organizar la presentación de los renders exportados y resolver dudas sobre el flujo de trabajo dentro de Fusion 360 para cumplir con los entregables del avance.
