@@ -1,9 +1,13 @@
+Librerías utilizadas
 | Librería | Versión | Uso en el proyecto | Fuente |
 | :--- | :--- | :--- | :--- |
-| UniversalTelegramBot | 1.3.0 | Control y envío de alertas a Telegram | github.com/witnessmenow/Universal-Arduino-Telegram-Bot |
-| ArduinoJson | 7.4.3 | Parseo de datos JSON | github.com/bblanchon/ArduinoJson |
-| WiFi | Integrada | Conexión WiFi | Espressif (Core ESP32) |
-| WiFiClientSecure | Integrada | Conexión segura HTTPS | Espressif (Core ESP32) |
+| esp_now.h | Integrada | Comunicación inalámbrica entre placas | Core ESP32 |
+| WiFi.h | Integrada | Conexión a red WiFi | Core ESP32 |
+| esp_wifi.h | Integrada | Configuración manual de canales WiFi | Core ESP32 |
+| WiFiClientSecure.h | Integrada | Conexión HTTPS segura para Telegram | Core ESP32 |
+| UniversalTelegramBot.h | 1.3.0 | Control y envío de alertas al Bot de Telegram | github.com/witnessmenow |
+| ArduinoJson.h | 7.4.3 | Parseo de respuestas y datos en formato JSON | github.com/bblanchon |
+| NewPing.h | 1.9.7 | Gestión y control de sensores | github.com/thomasfredericks |
 
 
 ##Uso de Inteligencia Artificial
