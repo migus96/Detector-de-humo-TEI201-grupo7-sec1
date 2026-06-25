@@ -1,3 +1,11 @@
+| Librería | Versión | Uso en el proyecto | Fuente |
+| :--- | :--- | :--- | :--- |
+| UniversalTelegramBot | 1.3.0 | Control y envío de alertas a Telegram | github.com/witnessmenow/Universal-Arduino-Telegram-Bot |
+| ArduinoJson | 7.4.3 | Parseo de datos JSON | github.com/bblanchon/ArduinoJson |
+| WiFi | Integrada | Conexión WiFi | Espressif (Core ESP32) |
+| WiFiClientSecure | Integrada | Conexión segura HTTPS | Espressif (Core ESP32) |
+
+
 ##Uso de Inteligencia Artificial
 
 ##Código receptor ESP-NOW + Telegram (firmware/receptor_telegram.ino),
