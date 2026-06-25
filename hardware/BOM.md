@@ -5,7 +5,7 @@ Esta tabla detalla los componentes electrónicos principales utilizados para la 
 | :--- | :---: | :--- | :--- | :--- |
 | ESP32 DevKit V1 | 2 | 30 pines, WiFi/Bluetooth | $7.168 | $14.336|
 | Sensor MQ-2 | 1 | Sensor de gas y humo | $2.325 | $2.325 |
-| Shield de expansión | 1 | Para ESP32 30 pines | $2.000 | $2.000 |
+| Shield de expansión | 1 | Para ESP32 30 pines | $4.122 | $4.122 |
 | Batería recargable | 1 | Li-ion 3.7V / 2000mAh | $4.500 | $4.500 |
 | TOTAL | | | | $21.000 |
 
