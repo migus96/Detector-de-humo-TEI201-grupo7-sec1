@@ -18,6 +18,12 @@ Detección Inalámbrica: Comunicación de bajo consumo entre la unidad emisora y
 Alerta en Tiempo Real: Notificaciones luego de un corto periodo de tiempo recibidas en el celular mediante la aplicación de Telegram.
 Encapsulado: Carcasa impresa en 3D diseñada para proteger los componentes críticos.
 
+## Tecnologías Utilizadas
+Hardware: 2x placa ESP32 , Sensor MQ-2, Shield, Batería recargable.
+Firmware: C++ (Arduino IDE) con protocolo ESP-NOW.
+Diseño: Autodesk Fusion 360 para modelado y planos.
+Integración: Bot de Telegram.
+
 
 ## Arquitectura del sistema 
 
